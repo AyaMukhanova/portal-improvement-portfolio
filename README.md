@@ -1,5 +1,5 @@
 # portal-improvement-portfolio   
-# NLU Portal Optimization
+# Portal Optimization
 # Project Overview
 Our team project focused on improving the NLU student portal by addressing major usability and performance issues experienced by students. Through a structured survey, we analyzed authentication barriers, navigation challenges, and system-level friction points that impact students’ daily academic workflows. The objective was to transform student-reported problems into actionable design improvements.
 # Problem being solved
